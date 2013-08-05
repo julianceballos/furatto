@@ -1,0 +1,16 @@
+{
+    "name": "furatto",
+    "description": "Furatto for wonkajs",
+    "version": "1.0.1",
+    "author": "@jceb",
+    "homepage": "http://github.com/julianceballos/furatto",
+    "_id": "furatto@1.0.1",
+    "resources": {
+        "images": ["furatto"],
+        "fonts": ["furatto"],
+        "stylesheets": ["furatto"]
+    },
+    "libraries": [
+        "furatto"
+    ]
+}
